@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning about Compiler design, Computer graphics and Computer Vision
+I'm currently learning about Compiler design, Computer graphics, Computer Vision and Linux
 
 Languages: Java, C++, Python 💻
 
